@@ -19,6 +19,7 @@ Curated list of awesome things related to Middy.
 ### Third-Party Middlewares
 - [@airporting/middy-json-body-parser](https://github.com/airporting/middy-json-body-parser) - `Automatically parses HTTP requests with a JSON body and converts the body into an object.`
 - [@airporting/middy-stripe](https://github.com/airporting/middy-stripe) - `Injects Stripe into context.`
+- [@airporting/middy-algolia](https://github.com/airporting/middy-algolia) - `Injects AlgoliaSearch into context.`
 
 ## articles
 - [https://fourtheorem.com/middy/](https://fourtheorem.com/middy/) - `Middy - The stylish Node.js middleware engine for AWS Lambda`
